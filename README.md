@@ -5,7 +5,6 @@ Extract YouTube video transcripts and save them directly to Google Docs using Go
 ## Features
 - Fetches YouTube video transcripts using the [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api)
 - Saves the transcript to a new Google Doc in your Google Drive
-- Supports English and English (US) transcripts
 
 ## How to Use in Google Colab
 
