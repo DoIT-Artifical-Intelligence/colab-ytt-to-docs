@@ -26,12 +26,12 @@ Extract YouTube video transcripts and save them directly to Google Docs using Go
 	 - Add your YouTube Data API key to Colab secrets:
 		 - In Colab, go to `Runtime > Manage secrets` and add a new secret named `YOUTUBE_DATA_API_KEY` with your API key value.
          - Check the "Notebook access" toggle.
-	 - To register for a YouTube Data API key:
-		 1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
-		 2. Create a new project (or select an existing one).
-		 3. Enable the YouTube Data API v3 for your project.
-		 4. Go to `APIs & Services > Credentials` and create an API key.
-		 5. Copy the API key and add it to Colab secrets as described above.
+	     - To register for a YouTube Data API key:
+		     1. Go to the [Google Cloud Console](https://console.cloud.google.com/).
+		     2. Create a new project (or select an existing one).
+		     3. Enable the YouTube Data API v3 for your project.
+		     4. Go to `APIs & Services > Credentials` and create an API key.
+		     5. Copy the API key and add it to Colab secrets as described above.
 4. **Run All Cells**
 	- Click `Runtime > Run all` to execute the notebook.
 	- Authenticate with your Google account when prompted.
