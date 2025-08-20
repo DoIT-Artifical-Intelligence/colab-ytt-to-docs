@@ -2,7 +2,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# Colab YouTube Transcription Extractor and Summarizer
+# Colab YouTube Transcription Extractor and AI Summarizer
 
 Extract YouTube video transcripts and save them directly to Google Docs using Google Colab. Optionally, uses AI to summarize the transcript.
 
