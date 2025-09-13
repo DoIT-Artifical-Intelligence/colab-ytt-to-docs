@@ -16,7 +16,7 @@ Extract YouTube video transcripts and save them directly to Google Docs using Go
 1. **Open Google Colab**
 	- Go to [Google Colab](https://colab.research.google.com/).
 2. **Upload the Notebook**
-	- Download `Colab_YouTube_Transcription_Extractor.ipynb` from this repository.
+	- Download The [ipython notebook](https://github.com/DoIT-Artifical-Intelligence/colab-ytt-to-docs/blob/main/Colab_YouTube_Transcription_Extractor_And_Summarizer.ipynb) from this repository.
 	- In Colab, click `File > Upload notebook` and select the file.
 3. **Set the YouTube URL and API Key**
 	 - In the first cell, replace the sample URL and title fallback with details for your target YouTube video link:
